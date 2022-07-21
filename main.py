@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%A0%E3%83%90%E3%83%9A#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_(cropped).jpg'
+img_url = 'https://www.soccer-king.jp/wp-content/uploads/2019/11/9.jpg'
 
 im = imread(img_url)
 
